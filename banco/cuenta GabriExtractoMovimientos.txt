@@ -1,0 +1,19 @@
+ 	 ********************* 
+	 Movimiento1 : 
+	 Tipo Operacion: 	 Ingreso
+	 Concepto: 	 dwcew
+	 Importe: 	 500 €
+	 Fecha: 	 Wed Feb 10 14:36:49 CET 2021
+	 *********************  	 ********************* 
+	 Movimiento2 : 
+	 Tipo Operacion: 	 Retirada
+	 Concepto: 	 swddwe
+	 Importe: 	 -200 €
+	 Fecha: 	 Wed Feb 10 14:37:06 CET 2021
+	 *********************  	 ********************* 
+	 Movimiento3 : 
+	 Tipo Operacion: 	 Transferencia
+	 Concepto: 	 hjijnkjkk
+	 Importe: 	 800 €
+	 Fecha: 	 Wed Feb 10 14:37:58 CET 2021
+	 ********************* 
